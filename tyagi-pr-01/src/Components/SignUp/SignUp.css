@@ -1,0 +1,45 @@
+.sign-up{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0 100px 0;
+    background-color: #CAF0F8;
+}
+.form{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 50px;
+    width: 500px;
+    border: 0.5px solid gray;
+    border-radius: 80px;
+    background-color: #0096C7;
+}
+.form h2{
+    text-align: center;
+    color: #fff;
+}
+.form input{
+    margin: 20px 0 0 0;
+    padding: 10px 50px;
+    border: 0.5px solid black;
+    border-radius: 30px;
+    color: #03045E;
+}
+.form .btn{
+    margin: 30px auto 0 auto;
+    max-width: 200px;
+    width: 100% ;
+    background-color: transparent;
+    border: 1px solid #03045E;
+}
+.form .passLogo{
+    position: absolute;
+    top: 270px;
+    bottom: 0;
+    right: 0;
+    left: 406px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+

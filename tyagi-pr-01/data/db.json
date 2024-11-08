@@ -1,0 +1,388 @@
+{
+  "tlist": [
+    {
+      "id": "2138",
+      "name": "B11",
+      "productQuantity": "130",
+      "size": "3",
+      "price": "4500",
+      "totalValue": "585000"
+    },
+    {
+      "id": "40ee",
+      "name": "21",
+      "productQuantity": "42",
+      "size": "10",
+      "price": "8000",
+      "totalValue": "336000"
+    },
+    {
+      "id": "f353",
+      "name": "49",
+      "productQuantity": "45",
+      "size": "11",
+      "price": "10000",
+      "totalValue": "450000"
+    },
+    {
+      "id": "fc4f",
+      "name": "B64",
+      "productQuantity": "84",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "588000"
+    },
+    {
+      "id": "800a",
+      "name": "80/30",
+      "productQuantity": "124",
+      "size": "8",
+      "price": "9000",
+      "totalValue": "1116000"
+    },
+    {
+      "id": "74b5",
+      "name": "70/25",
+      "productQuantity": "368",
+      "size": "7",
+      "price": "8000",
+      "totalValue": "2944000"
+    },
+    {
+      "id": "6774",
+      "name": "B125",
+      "productQuantity": "34",
+      "size": "10",
+      "price": "11000",
+      "totalValue": "374000"
+    },
+    {
+      "id": "c611",
+      "name": "047",
+      "productQuantity": "59",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "413000"
+    },
+    {
+      "id": "68bf",
+      "name": "40/19",
+      "productQuantity": "21",
+      "size": "4",
+      "price": "5000",
+      "totalValue": "105000"
+    },
+    {
+      "id": "7033",
+      "name": "BM08",
+      "productQuantity": "33",
+      "size": "5",
+      "price": "6000",
+      "totalValue": "198000"
+    },
+    {
+      "id": "93d0",
+      "name": "B72",
+      "productQuantity": "21",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "147000"
+    },
+    {
+      "id": "1611",
+      "name": "70/50",
+      "productQuantity": "28",
+      "size": "7",
+      "price": "8000",
+      "totalValue": "224000"
+    },
+    {
+      "id": "5970",
+      "name": "PP12",
+      "productQuantity": "4",
+      "size": "10",
+      "price": "12000",
+      "totalValue": "48000"
+    },
+    {
+      "id": "8512",
+      "name": "57",
+      "productQuantity": "5",
+      "size": "9",
+      "price": "8000",
+      "totalValue": "40000"
+    },
+    {
+      "id": "d356",
+      "name": "035",
+      "productQuantity": "80",
+      "size": "10",
+      "price": "8000",
+      "totalValue": "640000"
+    },
+    {
+      "id": "278f",
+      "name": "B78",
+      "productQuantity": "139",
+      "size": "8",
+      "price": "7000",
+      "totalValue": "973000"
+    },
+    {
+      "id": "1b53",
+      "name": "B58",
+      "productQuantity": "42",
+      "size": "10",
+      "price": "8000",
+      "totalValue": "336000"
+    },
+    {
+      "id": "3169",
+      "name": "S",
+      "productQuantity": "10",
+      "size": "10",
+      "price": "9000",
+      "totalValue": "90000"
+    },
+    {
+      "id": "c614",
+      "name": "PP27",
+      "productQuantity": "106",
+      "size": "8",
+      "price": "9000",
+      "totalValue": "954000"
+    },
+    {
+      "id": "cf50",
+      "name": "47",
+      "productQuantity": "95",
+      "size": "12",
+      "price": "10000",
+      "totalValue": "950000"
+    },
+    {
+      "id": "3c0a",
+      "name": "SS",
+      "productQuantity": "64",
+      "size": "8",
+      "price": "7000",
+      "totalValue": "448000"
+    },
+    {
+      "id": "e966",
+      "name": "54",
+      "productQuantity": "41",
+      "size": "8",
+      "price": "7000",
+      "totalValue": "287000"
+    },
+    {
+      "id": "8ccc",
+      "name": "05",
+      "productQuantity": "11",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "77000"
+    },
+    {
+      "id": "7c38",
+      "name": "75",
+      "productQuantity": "64",
+      "size": "6",
+      "price": "6000",
+      "totalValue": "384000"
+    },
+    {
+      "id": "e926",
+      "name": "60/15",
+      "productQuantity": "17",
+      "size": "6",
+      "price": "7000",
+      "totalValue": "119000"
+    },
+    {
+      "id": "2f71",
+      "name": "51",
+      "productQuantity": "70",
+      "size": "6",
+      "price": "5000",
+      "totalValue": "350000"
+    },
+    {
+      "id": "6509",
+      "name": "087",
+      "productQuantity": "43",
+      "size": "3",
+      "price": "4500",
+      "totalValue": "193500"
+    },
+    {
+      "id": "fee7",
+      "name": "32",
+      "productQuantity": "6",
+      "size": "14",
+      "price": "12000",
+      "totalValue": "72000"
+    },
+    {
+      "id": "6fa3",
+      "name": "35",
+      "productQuantity": "7",
+      "size": "14",
+      "price": "10000",
+      "totalValue": "70000"
+    },
+    {
+      "id": "515d",
+      "name": "B130",
+      "productQuantity": "10",
+      "size": "20",
+      "price": "30000",
+      "totalValue": "300000"
+    },
+    {
+      "id": "c772",
+      "name": "B112",
+      "productQuantity": "16",
+      "size": "16",
+      "price": "15000",
+      "totalValue": "240000"
+    },
+    {
+      "id": "295a",
+      "name": "B104",
+      "productQuantity": "66",
+      "size": "14",
+      "price": "15000",
+      "totalValue": "990000"
+    },
+    {
+      "id": "581b",
+      "name": "B129",
+      "productQuantity": "42",
+      "size": "12",
+      "price": "12000",
+      "totalValue": "504000"
+    },
+    {
+      "id": "054f",
+      "name": "B01",
+      "productQuantity": "90",
+      "size": "12",
+      "price": "12000",
+      "totalValue": "1080000"
+    },
+    {
+      "id": "6ffd",
+      "name": "B77",
+      "productQuantity": "75",
+      "size": "10",
+      "price": "8000",
+      "totalValue": "600000"
+    },
+    {
+      "id": "789f",
+      "name": "EP009",
+      "productQuantity": "15",
+      "size": "10",
+      "price": "10000",
+      "totalValue": "150000"
+    },
+    {
+      "id": "c205",
+      "name": "BM11",
+      "productQuantity": "19",
+      "size": "9",
+      "price": "14000",
+      "totalValue": "266000"
+    },
+    {
+      "id": "1843",
+      "name": "BM16",
+      "productQuantity": "104",
+      "size": "8",
+      "price": "7000",
+      "totalValue": "728000"
+    },
+    {
+      "id": "a0d9",
+      "name": "PP05",
+      "productQuantity": "58",
+      "size": "8",
+      "price": "10000",
+      "totalValue": "580000"
+    },
+    {
+      "id": "7a4a",
+      "name": "B92",
+      "productQuantity": "12",
+      "size": "8",
+      "price": "7000",
+      "totalValue": "84000"
+    },
+    {
+      "id": "963e",
+      "name": "B68",
+      "productQuantity": "100",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "700000"
+    },
+    {
+      "id": "f38f",
+      "name": "B16",
+      "productQuantity": "116",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "812000"
+    },
+    {
+      "id": "0999",
+      "name": "B91",
+      "productQuantity": "119",
+      "size": "7",
+      "price": "7000",
+      "totalValue": "833000"
+    },
+    {
+      "id": "a2a6",
+      "name": "PP06",
+      "productQuantity": "25",
+      "size": "6",
+      "price": "7000",
+      "totalValue": "175000"
+    },
+    {
+      "id": "8d35",
+      "name": "B06",
+      "productQuantity": "6",
+      "size": "6",
+      "price": "7000",
+      "totalValue": "42000"
+    },
+    {
+      "id": "3875",
+      "name": "BM05",
+      "productQuantity": "340",
+      "size": "5",
+      "price": "5000",
+      "totalValue": "1700000"
+    },
+    {
+      "id": "850b",
+      "name": "B123",
+      "productQuantity": "108",
+      "size": "5",
+      "price": "5000",
+      "totalValue": "540000"
+    },
+    {
+      "id": "4729",
+      "name": "dawdaw",
+      "productQuantity": "2",
+      "size": "1",
+      "price": "34432",
+      "totalValue": "68864"
+    }
+  ]
+}

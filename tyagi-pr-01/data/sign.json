@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "id": "166e",
+      "name": "Timur",
+      "email": "timurjoldasbaev02@gmail.com",
+      "password": "Timur2501",
+      "profileImg": "C:\\fakepath\\math.jpg"
+    },
+    {
+      "id": "f1f0",
+      "name": "Aysiy",
+      "email": "aysanem@gmail.com",
+      "password": "aysanem0102",
+      "profileImg": ""
+    }
+  ]
+}
